@@ -8,6 +8,7 @@
 # End Page
 ![quiz-fin](https://github.com/oshanto-ctrl/quiz-app-javascript/assets/55896261/2ef225b3-9c4d-4ebb-ae0d-4a00832a0e8d)
 
+<!--
 ## Live site link on w3school Spaces: https://quickquizz.w3spaces.com/
-
+-->
 ### Course: https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/
